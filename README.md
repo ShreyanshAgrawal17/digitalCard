@@ -20,7 +20,11 @@ This project provides a **simple yet elegant** way to share your personal or bus
 ---
 
 ## 📸 Screenshot
-![Screenshot_digital_card](https://github.com/user-attachments/assets/4a7b559c-21e2-4da9-9cdc-d5e6e944fe55) 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6d6fafc1-cc96-4e19-81cb-d08bfe6e1b44" alt="Screenshot of Digital Card" width="30%">
+</p>
+
+
 
 ---
 
